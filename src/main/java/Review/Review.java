@@ -6,7 +6,7 @@ import java.util.List;
 public class Review {
     /* This is our Java review */
    //Encapsulation is the mechanism of wrapping data and code acting on the data together as a single unit.Constructor
-    //creatioon is an example of encapsumlation
+    //creation is an example of encapsulation
    //Abstraction is hiding the implementation details fromm the user.
    //Inheritance is the mechanism in which one object inherits properties of a parent object.
    //polymorphism is a process in which we can perform the same action in different ways.method overloading is an example
